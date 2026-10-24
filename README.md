@@ -102,4 +102,4 @@ Lucas–Kanade: once the camera motion is subtracted, the dog moves about 2.3× 
 
 ## Author
 
-Name: _\<your name\>_ · Roll no.: _\<roll number\>_ · Course: _\<course / semester\>_
+Name: ARSHITA SIKARIA   · Roll no.: 1272250628 · Cours:- MCA SCIENCE
