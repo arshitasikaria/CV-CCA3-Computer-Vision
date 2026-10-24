@@ -1,0 +1,6 @@
+Metric,Value
+Frames processed,173
+Frames with 'dog' detected,171 (98.8%)
+Mean / min dog confidence,0.90 / 0.47
+"Other (wrong) classes, frames","frisbee: 18, cow: 7, sheep: 1, book: 2, potted plant: 2"
+Mean YOLO time per frame (CPU),89 ms

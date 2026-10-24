@@ -1,0 +1,13 @@
+Input,Detector,Detections (confidence),Gives confidence?,Time (ms)
+Photo 1,Haar cascades,"face: 1, eye: 2, fullbody: 0",No,1104
+Photo 1,YOLOv8n,"person ×2 (0.89, 0.28); potted plant ×1 (0.40)",Yes,105
+Photo 2,Haar cascades,"face: 2, eye: 1, fullbody: 1",No,1102
+Photo 2,YOLOv8n,person ×1 (0.92); tie ×1 (0.25),Yes,99
+Video frame 5,Haar cascades,"face: 0, cat face: 0",No,663
+Video frame 5,YOLOv8n,dog ×1 (0.90),Yes,100
+Video frame 59,Haar cascades,"face: 2, cat face: 0",No,607
+Video frame 59,YOLOv8n,dog ×1 (0.92),Yes,89
+Video frame 113,Haar cascades,"face: 0, cat face: 0",No,623
+Video frame 113,YOLOv8n,dog ×1 (0.95),Yes,91
+Video frame 168,Haar cascades,"face: 0, cat face: 0",No,686
+Video frame 168,YOLOv8n,cow ×1 (0.58); dog ×1 (0.56),Yes,76
