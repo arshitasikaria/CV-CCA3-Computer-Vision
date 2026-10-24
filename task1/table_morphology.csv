@@ -1,0 +1,6 @@
+Image,Foreground pixels (%),Connected components
+Otsu binary,36.39,443
+Erosion,21.49,332
+Dilation,54.93,51
+Opening,29.78,155
+Closing,40.87,152
