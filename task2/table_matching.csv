@@ -1,0 +1,5 @@
+Experiment,Keypoints A,Keypoints B,Raw matches,Good matches (ratio < 0.75),RANSAC inliers,Inlier ratio,Mean descriptor distance
+Photo 1 vs Photo 2 – Original,3780,3294,3780,955,795,83.2%,125.5
+Photo 1 vs Photo 2 – Rotated 30°,3780,4077,3780,937,804,85.8%,131.4
+Photo 1 vs Photo 2 – Resized 0.5×,3780,884,3780,334,261,78.1%,129.6
+Photo 1 vs Photo 2 – Resized 0.6× + rotated −45°,3780,1735,3780,404,345,85.4%,137.6
