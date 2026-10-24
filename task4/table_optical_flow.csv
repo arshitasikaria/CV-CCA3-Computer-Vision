@@ -1,0 +1,3 @@
+Lucas–Kanade,Mean motion on dog (px/frame),Mean motion on background (px/frame),Dog / background ratio
+Raw flow (includes camera motion),13.5,14.5,0.93
+After subtracting camera motion,12.5,5.4,2.3

@@ -1,0 +1,4 @@
+Method,Foreground area (% of frame),Precision – FG inside dog box (%),Coverage of dog box (%),Time per frame (ms)
+Frame differencing,9.7,35.6,15.4,1.0
+Frame diff + camera compensation,10.2,43.1,15.9,17.0
+GMM background subtraction (MOG2),13.1,37.6,19.3,23.9
